@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 53baa6d692bab6b48a7c50d21438bed1
+timeCreated: 1500619273
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JejuHallasan
+  fontNames:
+  - JejuHallasan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
